@@ -1,2 +1,7 @@
-# py-settings
-Simplistic class for simple project settings inside python
+# Settings for Python
+
+Simplistic class for class related settings inside Python
+
+## How to use
+
+Coming soon.
