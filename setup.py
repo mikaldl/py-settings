@@ -5,7 +5,7 @@ from distutils.core import setup
 version = "1.0.0"
 
 setup_data = {
-    'name': 'pysettings',
+    'name': 'py-settings',
     'version': version,
     'author': 'Mikal de Langen',
     'author_email': 'info@mikaldelangen.nl',
